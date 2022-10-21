@@ -1,2 +1,2 @@
-# tilastot
+# Tilastotietoa Kangasalta
 Tilastotietoa Kangasalta
